@@ -1,8 +1,8 @@
 # QnA-PDF-RAG-LangChain
 Chat with your PDF files and ask the most specific questions about them!
+![Screenshot from 2024-09-17 14-40-56](https://github.com/user-attachments/assets/403d2752-4d7f-4284-8026-bae3e35182f7)
 
-![image]([https://github.com/yasinda-s/QnA-PDF-RAG-LangChain/assets/60426941/c7173672-8cc0-4afd-bec0-877d6180f09c](https://drive.google.com/file/d/1M4gj2-cl4NRW8rLyTqwe2ZcCevdE3Dlx/view?usp=drive_link))
-
+![image]()
 ## Features
 
 - Upload a PDF and chat with your PDF!
